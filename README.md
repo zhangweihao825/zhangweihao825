@@ -37,19 +37,31 @@
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-0%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
-**我是早鸟 🐤** 
+**🐱 我的 GitHub 数据** 
+
+> 📦  使用了 ? GitHub 存储空间 
+ > 
+> 🏆 41 个贡献，在 2026 年
+ > 
+> 🚫 不开放招聘
+ > 
+> 📜 1 个公共仓库 
+ > 
+> 🔑 0 个私人仓库 
+ > 
+**我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     1 commits           ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.70 % 
-🌆 白天                     18 commits          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   48.65 % 
-🌃 傍晚                     18 commits          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   48.65 % 
+🌞 早晨                     1 commits           ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.56 % 
+🌆 白天                     18 commits          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.15 % 
+🌃 傍晚                     20 commits          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   51.28 % 
 🌙 晚上                     0 commits           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 ```
 📅 **星期二 时的我最有干劲** 
 
 ```text
 星期一                      0 commits           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
-星期二                      37 commits          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+星期二                      39 commits          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 星期三                      0 commits           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 星期四                      0 commits           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 星期五                      0 commits           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
@@ -82,8 +94,12 @@
 
 
 
+**时间线**
 
- Last Updated on 03/03/2026 14:34:05 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/zhangweihao825/zhangweihao825/main/assets/bar_graph.png)
+
+
+ Last Updated on 03/03/2026 14:37:34 UTC
 <!--END_SECTION:waka-->
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
