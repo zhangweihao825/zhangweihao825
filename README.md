@@ -1,4 +1,3 @@
-<!--START_SECTION:waka-->
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20ZhangWeihao825&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
@@ -12,6 +11,15 @@
     <!-- <img width="400" src="https://streak-stats.demolab.com?user=ZhangWeihao825&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
     <!-- self-host in Vercel -->
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ZhangWeihao825&locale=zh_Hans" alt="GitHub Streak" /></a>
+    <!--START_SECTION:waka-->
+    ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C799%20hrs%2053%20mins-blue?style=flat)
+    
+    ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.06%20million%20lines%20of%20code-blue?style=flat)
+
+    📊 **This Week I Spent My Time On** 
+
+    
+    <!--END_SECTION:waka-->
 </p>
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
@@ -34,4 +42,3 @@
     <!-- https://github.com/kyechan99/capsule-render -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Keep%20it%20simple,%20stupid&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
 </p>
-<!--END_SECTION:waka-->
