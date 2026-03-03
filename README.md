@@ -11,14 +11,8 @@
     <!-- <img width="400" src="https://streak-stats.demolab.com?user=ZhangWeihao825&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
     <!-- self-host in Vercel -->
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ZhangWeihao825&locale=zh_Hans" alt="GitHub Streak" /></a>
-    <!--START_SECTION:waka-->
-    ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C799%20hrs%2053%20mins-blue?style=flat)
-    
-    ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.06%20million%20lines%20of%20code-blue?style=flat)
-
     📊 **This Week I Spent My Time On** 
-
-    
+    <!--START_SECTION:waka-->
     <!--END_SECTION:waka-->
 </p>
 <p align="center">
