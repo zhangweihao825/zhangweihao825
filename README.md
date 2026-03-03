@@ -11,7 +11,7 @@
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <!-- <img width="400" src="https://streak-stats.demolab.com?user=ZhangWeihao825&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
     <!-- self-host in Vercel -->
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Zhangweihao825" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ZhangWeihao825&locale=zh_Hans" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
@@ -33,7 +33,7 @@
     <a href="https://github.com/ZhangWeihao825"><img src="https://img.shields.io/badge/GitHub-ZhangWeihao825-blue?logo=github" alt="GitHub" title="GitHub" /></a>
     <a href="https://gitee.com/ZhangWeihao825"><img src="https://img.shields.io/badge/Gitee-ZhangWeihao825-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
     <a href="https://space.bilibili.com/109076069"><img src="https://img.shields.io/badge/哔哩哔哩-张三每天都疯-pick?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
-    <a href="https://wakatime.com/@ZhangWeihao825"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" alt="Wakatime" title="Wakatime" /></a>
+    <a href="https://wakatime.com/@ZhangWeihao825"><img src="https://wakatime.com/badge/user/53bd31be-f7b5-4f24-9c5c-d146d8bbf2c9.svg" alt="Wakatime" title="Wakatime" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <a href="https://github.com/ZhangWeihao825"><img src="https://komarev.com/ghpvc/?username=ZhangWeihao825&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
