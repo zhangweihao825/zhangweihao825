@@ -19,10 +19,20 @@
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=ZhangWeihao825&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
     
 </p>
+
+<p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+    </picture>
+</p>
+
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,md,latex,ps,mermaid&titles=true" alt="Skill Icons" title="Skill Icons">
-</p> 
+    <!-- <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,md,latex,ps,mermaid&titles=true" alt="Skill Icons" title="Skill Icons"> -->
+</p>
+
 <p align="center">
     <!-- https://github.com/badges/shields --> 
     <a href="https://github.com/ZhangWeihao825"><img src="https://img.shields.io/badge/GitHub-ZhangWeihao825-blue?logo=github" alt="GitHub" title="GitHub" /></a>
