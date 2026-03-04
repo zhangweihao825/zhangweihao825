@@ -10,7 +10,7 @@
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <!-- <img width="400" src="https://streak-stats.demolab.com?user=ZhangWeihao825&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
     <!-- self-host in Vercel -->
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zhangweihao825&locale=zh_Hans&short_numbers=true&mode=weekly&card_width=465&card_height=190" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zhangweihao825&locale=zh_Hans&short_numbers=true&mode=weekly&card_width=450&card_height=190" alt="GitHub Streak" /></a>
     <img src="https://stats.justsong.cn/api/leetcode?username=nervous-i3lackh8w&cn=true&lang=zh-CN" style="gruvbox">
 </p>
     
